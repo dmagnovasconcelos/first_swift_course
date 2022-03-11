@@ -16,6 +16,7 @@
 		4D55D0E627CD3922002802CF /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D55D0E527CD3922002802CF /* OnboardingView.swift */; };
 		4D55D0E927CD3E38002802CF /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D55D0E827CD3E38002802CF /* FruitModel.swift */; };
 		4D55D0EC27CD3FDE002802CF /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D55D0EB27CD3FDE002802CF /* FruitData.swift */; };
+		4D55D0EE27CD5AF9002802CF /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D55D0ED27CD5AF9002802CF /* FruitRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		4D55D0E527CD3922002802CF /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		4D55D0E827CD3E38002802CF /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
 		4D55D0EB27CD3FDE002802CF /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
+		4D55D0ED27CD5AF9002802CF /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 			children = (
 				4D55D0E127CD1E51002802CF /* FruitCardView.swift */,
 				4D55D0E327CD2780002802CF /* StartButtonView.swift */,
+				4D55D0ED27CD5AF9002802CF /* FruitRowView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 			files = (
 				4D55D0EC27CD3FDE002802CF /* FruitData.swift in Sources */,
 				4D55D0E227CD1E51002802CF /* FruitCardView.swift in Sources */,
+				4D55D0EE27CD5AF9002802CF /* FruitRowView.swift in Sources */,
 				4D55D0E427CD2780002802CF /* StartButtonView.swift in Sources */,
 				4D55D0D427CD1D7D002802CF /* ContentView.swift in Sources */,
 				4D55D0E627CD3922002802CF /* OnboardingView.swift in Sources */,
